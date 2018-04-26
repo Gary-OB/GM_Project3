@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="GM_Lab2.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MoveBox.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\SpawnTests.cs">
     <Files>
-      <File FileName="Assets\MoveBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\SpawnTests.cs" Line="12" Column="57" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

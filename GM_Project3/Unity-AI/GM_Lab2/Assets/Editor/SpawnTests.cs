@@ -10,7 +10,7 @@ public class SpawnTests {
 	[Test]
 	public void checkEndpointNotNull() {
 		EditorSceneManager.OpenScene ("Assets/GM_Lab2.unity");
-		Assert.IsNull((GameObject.FindGameObjectWithTag("endpoint")), "Object not found");
+		Assert.IsNotNull((GameObject.FindGameObjectWithTag("endpoint")), "Object not found");
 	}
 
 	[Test]

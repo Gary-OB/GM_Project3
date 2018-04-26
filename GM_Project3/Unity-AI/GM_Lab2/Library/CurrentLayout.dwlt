@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 49
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 50
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 13
+  controlID: 51
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -655,8 +655,8 @@ MonoBehaviour:
     height: 736
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5c2f0000
-    m_LastClickedID: 12124
+    m_SelectedIDs: 12070000
+    m_LastClickedID: 0
     m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -850,19 +850,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Editor
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Editor
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\src\GM_Project3\GM_Project3\Unity-AI\GM_Lab2
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 55}
-    m_SelectedIDs: 6e250000
-    m_LastClickedID: 9582
-    m_ExpandedIDs: 000000006e250000b4270000c42800006a2900002a2a00005e2b0000742b0000d42b0000402c0000242d0000442d0000602d0000d22d0000422e0000a82e0000bc340000be340000c0340000c2340000c4340000c6340000c8340000ca340000cc34000000ca9a3bffffff7f
+    m_SelectedIDs: a42a0000
+    m_LastClickedID: 10916
+    m_ExpandedIDs: 000000006a250000b02700007e280000c028000066290000262a00005a2b0000702b0000d02b00003c2c0000202d0000402d00005c2d0000ce2d00003e2e0000a42e0000b8340000ba340000bc340000be340000c0340000c2340000c4340000c6340000c834000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -890,7 +890,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e250000b4270000c42800006a2900002a2a00005e2b0000742b0000d42b0000402c0000242d0000442d0000602d0000d22d0000422e0000a82e0000bc340000be340000c0340000c2340000c4340000c6340000c8340000ca340000cc340000
+    m_ExpandedIDs: 000000006a250000b0270000c028000066290000262a00005a2b0000702b0000d02b00003c2c0000202d0000402d00005c2d0000ce2d00003e2e0000a42e0000b8340000ba340000bc340000be340000c0340000c2340000c4340000c6340000c8340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -917,7 +917,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 000000004a2700009a270000584400002c490100a44a010056ab00002eab000026310000deaa0000e4f2000062270000d8270000f22a0000542b0000762d00000a3000002c280000d0040100dc0401007e090100222800000a430000363f0000ca0a0100be0a010050270000e64d01001852010002500100b04f0100422b00007a290000422f000018280000562e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
