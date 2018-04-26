@@ -78,21 +78,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CameraMove.cs" />
-    <Compile Include="Assets\Controls.cs" />
-    <Compile Include="Assets\EnemyScript.cs" />
-    <Compile Include="Assets\EnemySpawner.cs" />
     <Compile Include="Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
-    <Compile Include="Assets\MoveBox.cs" />
     <Compile Include="Assets\MoveMotionPack\SampleScene\Scripts\PlayManager.cs" />
-    <Compile Include="Assets\PlayerMovement.cs" />
-    <Compile Include="Assets\Running.cs" />
-    <Compile Include="Assets\SetupLocalPlayer.cs" />
+    <Compile Include="Assets\Scripts\CameraMove.cs" />
+    <Compile Include="Assets\Scripts\Controls.cs" />
+    <Compile Include="Assets\Scripts\EnemyScript.cs" />
+    <Compile Include="Assets\Scripts\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\MoveBox.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Running.cs" />
+    <Compile Include="Assets\Scripts\SetupLocalPlayer.cs" />
+    <Compile Include="Assets\Scripts\walkTo.cs" />
     <Compile Include="Assets\ToonBot\ToonBot(Free) Assets\Controller\RobotTestScriptFree.cs" />
     <Compile Include="Assets\Warrior Pack Bundle 1 FREE\Code\IKHands.cs" />
     <Compile Include="Assets\Warrior Pack Bundle 1 FREE\Code\SmoothFollow.cs" />
     <Compile Include="Assets\Warrior Pack Bundle 1 FREE\Code\WarriorAnimationDemoFREE.cs" />
-    <Compile Include="Assets\walkTo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Idle MoCap\Idle Package Description.txt" />
