@@ -106,8 +106,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 1067
-  m_MinSize: {x: 681, y: 492}
-  m_MaxSize: {x: 14004, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 11
 --- !u!114 &6
@@ -257,8 +257,8 @@ MonoBehaviour:
     y: 0
     width: 398
     height: 1067
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -655,9 +655,9 @@ MonoBehaviour:
     height: 736
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce340000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 26c6ffff06c7ffffe6c7ffffcac8ffff52c9ffffbeccffff80cdffff42ceffff04cfffffe2cfffff6cd9ffff5edaffff00dbffff58defffff8deffff10e1ffffb0e1ffff9ae4ffff90e5ffffe2fbffff00000000de4e0000384f0000
+    m_SelectedIDs: 5c2f0000
+    m_LastClickedID: 12124
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -675,7 +675,8 @@ MonoBehaviour:
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
-  m_ExpandedScenes: []
+  m_ExpandedScenes:
+  - GM_Lab2
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -711,9 +712,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 66.17194, y: 20.83596, z: 12.176895}
+    m_Target: {x: 58.65015, y: 6.1615753, z: 36.697815}
     speed: 2
-    m_Value: {x: 66.17194, y: 20.83596, z: 12.176895}
+    m_Value: {x: 58.65015, y: 6.1615753, z: 36.697815}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -740,9 +741,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.008265394, y: 0.8709852, z: -0.49102095, w: -0.014663962}
   m_Size:
-    m_Target: 90.26012
+    m_Target: 174.53592
     speed: 2
-    m_Value: 90.26012
+    m_Value: 174.53592
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -849,19 +850,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Editor
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Editor
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\src\GM_Project3\GM_Project3\Unity-AI\GM_Lab2
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 55}
-    m_SelectedIDs: ce340000
-    m_LastClickedID: 13518
-    m_ExpandedIDs: 0000000068250000ae270000be28000064290000242a0000562b00006c2b0000cc2b0000382c00001a2d00003a2d0000562d0000c82d0000382e00009e2e0000b0340000b2340000b4340000b6340000b8340000ba340000bc340000be340000c034000000ca9a3bffffff7f
+    m_SelectedIDs: 6e250000
+    m_LastClickedID: 9582
+    m_ExpandedIDs: 000000006e250000b4270000c42800006a2900002a2a00005e2b0000742b0000d42b0000402c0000242d0000442d0000602d0000d22d0000422e0000a82e0000bc340000be340000c0340000c2340000c4340000c6340000c8340000ca340000cc34000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -889,7 +890,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000068250000ae270000be28000064290000242a0000562b00006c2b0000cc2b0000382c00001a2d00003a2d0000562d0000c82d0000382e00009e2e0000b0340000b2340000b4340000b6340000b8340000ba340000bc340000be340000c0340000
+    m_ExpandedIDs: 000000006e250000b4270000c42800006a2900002a2a00005e2b0000742b0000d42b0000402c0000242d0000442d0000602d0000d22d0000422e0000a82e0000bc340000be340000c0340000c2340000c4340000c6340000c8340000ca340000cc340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -916,7 +917,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 000000004a2700009a270000584400002c490100a44a010056ab00002eab000026310000deaa0000e4f2000062270000d8270000f22a0000542b0000762d00000a3000002c280000d0040100dc0401007e090100222800000a430000363f0000ca0a0100be0a010050270000e64d01001852010002500100b04f0100422b00007a290000422f000018280000562e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
